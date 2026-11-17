@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1280" viewBox="0 0 1000 1280" role="img" aria-labelledby="title desc">
+<title id="title">The Long Season book cover</title><desc id="desc">An original geometric alpine landscape in deep blue, ice blue, cream, and vermilion, with ski tracks descending from a high ridge.</desc>
+<defs><pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#122b38" opacity=".10"/></pattern></defs>
+<path fill="#f3eddf" d="M0 0h1000v1280H0z"/><path fill="#133844" d="M28 28h944v1224H28z"/>
+<path fill="#b5d0d1" d="M28 770 225 480l124 150 198-326 151 205 104-110 170 244v609H28z"/>
+<path fill="#faf4e7" d="m225 480 124 150 198-326 151 205 104-110 170 244-170-133-43 31-70-46-142-191-42 130-65 36-91 239-124-135-197 196z"/>
+<path fill="#86acae" d="m547 304-42 130-65 36-91 239 114-94 80-166 96 147 120 45-70-46z"/>
+<path fill="#f3eddf" d="M28 951c230-120 450-98 944-236v537H28z"/>
+<path d="M634 685c-250 119 203 134-99 246s57 156-166 231M657 685c-250 119 203 134-99 246s57 156-166 231" fill="none" stroke="#e85b38" stroke-width="7"/>
+<g fill="#f3eddf" font-family="Georgia,serif"><text x="78" y="136" font-family="Arial,sans-serif" font-size="20" letter-spacing="7">MAX VERT™ FIELD LIBRARY / 01</text><text x="73" y="277" font-size="132">The Long</text><text x="73" y="403" font-size="132" font-style="italic">Season.</text></g>
+<text x="79" y="1195" fill="#133844" font-family="Arial,sans-serif" font-size="27" letter-spacing="4">A FIELD GUIDE TO SKIING</text><path fill="url(#grain)" d="M28 28h944v1224H28z"/>
+</svg>

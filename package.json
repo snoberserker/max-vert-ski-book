@@ -1,0 +1,9 @@
+{
+  "name": "max-vert-ski-book",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Long Season: A Field Guide to Skiing",
+  "scripts": {"build": "node scripts/build.mjs", "test": "node --test scripts/book.test.mjs"},
+  "dependencies": {"markdown-it": "14.1.0"}
+}

@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const out=path.join(root,'dist');
+const book=JSON.parse(fs.readFileSync(path.join(root,'book.json'),'utf8'));
+const manifest=JSON.parse(fs.readFileSync(path.join(out,'manifest.json'),'utf8'));
+const pages=[...manifest.pages,'/skiing/print/'];
+const localFile=url=>path.join(out,url.slice('/skiing/'.length),url.endsWith('/')?'index.html':'');
+const htmlFor=url=>fs.readFileSync(localFile(url),'utf8');
+test('complete book and unique permanent routes',()=>{assert.equal(book.chapters.length,14);assert.ok(manifest.totalWords>=10000);assert.equal(new Set(book.chapters.map(c=>c.slug)).size,14);assert.equal(pages.length,17);for(const c of manifest.chapters)assert.ok(c.words>500,`${c.slug} should be substantial`);});
+test('all pages have useful unique metadata and valid structured data',()=>{const titles=new Set(),descriptions=new Set();for(const url of pages){const html=htmlFor(url);assert.match(html,/^<!DOCTYPE html>/);assert.equal((html.match(/<h1[ >]/g)||[]).length,1,url);const title=html.match(/<title>(.*?)<\/title>/)[1],description=html.match(/name="description" content="([^"]+)"/)[1];assert.ok(!titles.has(title));assert.ok(!descriptions.has(description));titles.add(title);descriptions.add(description);assert.ok(html.includes(`rel="canonical" href="${book.origin}${url}"`));assert.match(html,/id="main"/);JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);const ids=[...html.matchAll(/\sid="([^"]+)"/g)].map(x=>x[1]);assert.equal(new Set(ids).size,ids.length,`duplicate ID: ${url}`);}});
+test('every book link, asset, and fragment resolves',()=>{for(const url of pages){const html=htmlFor(url);for(const match of html.matchAll(/(?:href|src)="([^"]+)"/g)){const target=match[1].replace(/&amp;/g,'&');if(target.startsWith('#')){assert.ok(html.includes(`id="${target.slice(1)}"`),`${url} ${target}`);continue;}if(!target.startsWith('/skiing/'))continue;const parsed=new URL(target,book.origin);const file=localFile(parsed.pathname);assert.ok(fs.existsSync(file),`${url} → ${target}`);if(parsed.hash)assert.ok(fs.readFileSync(file,'utf8').includes(`id="${parsed.hash.slice(1)}"`),target);}}});
+test('print duplicate is excluded from indexing and sitemap',()=>{assert.match(htmlFor('/skiing/print/'),/name="robots" content="noindex,follow"/);const sitemap=fs.readFileSync(path.join(out,'sitemap-fragment.xml'),'utf8');assert.ok(!sitemap.includes('/print/'));assert.equal((sitemap.match(/<url>/g)||[]).length,16);for(const url of manifest.pages)assert.ok(sitemap.includes(book.origin+url));});
+test('medical scope, primary references, and editorial provenance stay visible',()=>{const health=htmlFor('/skiing/ski-health-and-recovery/'),sources=htmlFor('/skiing/skiing-resources/');assert.match(health,/cdc\.gov/);assert.match(health,/orthoinfo\.org/);assert.match(sources,/AI assistance/);assert.match(sources,/no claimed firsthand reporting/);assert.match(sources,/DidThey LLC/);assert.match(htmlFor('/skiing/mountain-safety-and-backcountry/'),/avalanche\.org/);});

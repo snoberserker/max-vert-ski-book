@@ -2,6 +2,8 @@ Suppose the day you remember from this winter turns out to be a Wednesday in Feb
 
 Very little of it involves snow. Somebody has to be able to leave work. Two pairs of boots have to end up in the same car. Your sister has to know you meant the invitation. The point of a calendar is that it can hold a small piece of winter open until two people get there. A plan that begins with a distant mountain and works backward can spend a remarkable amount of money before it makes that simple thing possible.
 
+![Two evening skiers descend a small floodlit slope beside a lodge.](/skiing/assets/plates/night.webp)
+
 ## The winter you would miss
 
 Choose a participation goal, a skill goal, and an experience goal. For example: eight local days, a lesson on comfortable linked turns, and one relaxed trip with friends. Keep the skill goal observable. “Become advanced” is too vague to guide a lesson. “Finish turns with controlled speed on familiar blue terrain” gives an instructor something useful to work with.

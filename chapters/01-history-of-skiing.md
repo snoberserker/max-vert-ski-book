@@ -4,6 +4,8 @@ The Civilian Conservation Corps built a rope tow there in 1937. Installed the ne
 
 Stand those two ideas side by side for a moment. Somebody looked at a snowy slope and wanted to ski it over and over. Somebody else looked at the same slope and wanted a summer visitor to have trouble believing a lift had ever stood there. Both got their wish. The history of skiing is full of such arrangements, including a much older one between a person, a length of wood, and the winter ground.
 
+![A rope tow draws skiers past a wooden hut beneath Mount Rainier.](/skiing/assets/plates/tow.webp)
+
 ## Before the chairlift
 
 Archaeological skis and historical accounts document long traditions of winter travel across northern Eurasia. Sámi communities and other northern peoples belong in this story, alongside the Scandinavian farmers, hunters, and soldiers more frequently featured in popular histories. There is no need to declare a single birthplace to appreciate the depth of that inheritance. Surviving objects tell us where evidence has been preserved; they cannot tell us every place somebody first tried to slide. The [International Skiing History Association’s historical overview](https://www.skiinghistory.org/history/short-history-skis-0) is a starting point for the material record.

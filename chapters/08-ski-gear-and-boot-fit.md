@@ -4,6 +4,8 @@ A cable binding that held the heel down put new demands on the sole. More levera
 
 That is why the most revealing part of a shop visit may be the moment the fitter stops looking at the box and asks you to point, with one finger, to the spot that hurts.
 
+![A leather ski boot and its soft lace-up liner stand side by side on a workbench.](/skiing/assets/plates/boot.webp)
+
 ## What a rental can teach you
 
 Rental equipment lets a new skier begin without guessing what they will want after ten days. Seasonal rental can simplify repeated local visits. Demo options can help experienced skiers compare equipment in the conditions they actually ski.

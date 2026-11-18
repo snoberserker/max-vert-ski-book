@@ -1,6 +1,8 @@
-A good skier makes room: room to stop, room for the person downhill, room to change plans, and room for uncertainty. Speed and confidence can make those margins disappear before you notice.
+The awkward moment at a boundary gate can begin hours earlier, when the person who organized the trip makes the coffee, checks the road, and remembers everybody's gloves. By the time that person offers an opinion about the snow, they have been right about six things in a row. The seventh question belongs to an entirely different field.
 
-Safety is a set of habits shared with everyone on the mountain. This chapter is an orientation to decisions and resources. It cannot teach avalanche assessment, rescue, emergency medicine, or the skills required for independent backcountry travel.
+Avalanche educators have a name for the tendency to give the apparent expert in a group more authority than the evidence warrants. The *expert halo* is one of the decision traps described in the FACETS framework. Familiarity is another. A slope can feel reassuring simply because the last trip there ended well. The unsettling part is how much these errors feel like ordinary friendship and a decent memory. [Avalanche.org, FACETS](https://avalanche.org/avalanche-encyclopedia/human/decision-making/human-factors/f-a-c-e-t-s/)
+
+Consider a small act of hospitality before anyone puts boots on. Let the least experienced person hear the driver say that the ride home is theirs whatever the group decides to do. It is easier to speak up when speaking costs you neither companionship nor transport. The technical skills for avalanche terrain belong in qualified field instruction. The work of making dissent possible can start at breakfast.
 
 ## Learn the code where you ski
 
@@ -30,18 +32,14 @@ If you want to travel in avalanche terrain, seek recognized instruction, appropr
 
 Carrying equipment is necessary in many avalanche contexts, but possession does not establish competence or prevent an avalanche. A lower danger rating does not mean no danger. Choosing terrain without avalanche exposure requires the ability to recognize both slopes and runout zones.
 
-## Notice the pressure to continue
+## The price of a quiet car
 
-Groups make predictable mistakes when sunk costs, fresh tracks, or a confident voice outrun evidence. A long drive can make turning around feel emotionally expensive. A rare day off can make an ordinary warning seem negotiable.
+Think about the conversation in the car on the way home from a day cut short. Somebody used a vacation day. Somebody bought breakfast. There may be two hours of highway in which to sit with the disappointment. Those costs are real, and the snowpack has no means of detecting any of them.
 
-Agree before leaving that anyone can call for a stop or a more conservative plan. When the group is tired or uncertain, simplify. The decision to return safely should be easy to support even when it disappoints someone.
-
-For resort skiing, the same principle applies at a smaller scale. The afternoon does not need a final difficult run to validate the day.
+This is where the arrangement made at breakfast earns its keep. The driver can start the engine without asking anyone to defend the decision a second time. There is a version of a good ski partnership that you can recognize best from the passenger seat, with dry gloves and an afternoon you had expected to spend elsewhere.
 
 ## Know when the book ends
 
 If someone is injured, lost, or becoming seriously cold, involve patrol or local emergency services promptly and follow their instructions. Do not improvise complicated rescue techniques from a paragraph you remember reading.
 
 The strongest takeaway is a relationship with good resources: local patrol, instructors, guides, avalanche centers, and current official information. Build those connections before the moment you need them.
-
-**Field note:** Before a trip, save the mountain’s patrol contact and identify how trail and lift locations are labeled. Agree where the group will meet if phones fail.

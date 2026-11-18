@@ -1,8 +1,10 @@
-A snowfall number is the beginning of a ski plan. The snow still has to land at the right elevation, survive the wind, sit over adequate coverage, and reach a surface you can ski appropriately. Then the lift and road have to open.
+Up in the mountains somebody has gone to the trouble of weighing the winter. At a SNOTEL site, snow accumulates on a pillow filled with fluid. Its weight changes the pressure. From that pressure you can work out how much water the snow holds. A separate sensor measures the distance to the surface and from it the depth of the pack. A pillow and a ruler, in effect, watching the same winter for quite different reasons. [USDA Natural Resources Conservation Service, What is a SNOTEL station?](https://www.nrcs.usda.gov/state-offices/utah/what-is-a-snotel-station)
 
-Learning to read conditions turns a forecast from entertainment into a decision tool. It also gives you more ways to enjoy winter. A good groomer day does not need to apologize for failing to be powder.
+Imagine the pack settling overnight. With no water entering or leaving, it can grow shallower while the pillow bears the same weight. Someone looking at the depth chart might mourn the disappearing inches. A water manager looking at the pillow might see a perfectly uneventful night. Both instruments can be working beautifully.
 
-## Separate weather, surface, and operations
+Then a skier comes along with a third question. How will the first turn feel? Neither instrument has an edge. Neither stood on the exposed pitch where yesterday's wind went to work. To get closer to that first turn, we have to put the numbers back where they came from.
+
+## Three questions for the same snowfall
 
 A weather forecast describes expected atmospheric conditions. A snow report describes measurements and observations under a particular reporting method. An operations report tells you which parts of the mountain are available. They answer different questions.
 
@@ -42,12 +44,10 @@ When visibility, fatigue, or crowding reduces your margin, select simpler terrai
 
 A storm that improves skiing can complicate arrival. Check the relevant road authority’s current closures, traction requirements, and travel advisories. Vehicle preparation and driving experience matter as much as departure enthusiasm.
 
-The [road desk](/data/roads/) can help you find a starting point, but official local information controls the travel decision. Do not assume a navigation app understands a winter closure or a mountain road. Avoid chasing a weather window that leaves no safe transport plan.
+Check official local road reports before travelling. Do not assume a navigation app understands a winter closure or a mountain road. Avoid chasing a weather window that leaves no safe transport plan.
 
-## Keep climate and a weekend forecast distinct
+## After the snow has melted
 
-A single snowy weekend cannot establish a long-term trend. A long-term trend cannot tell you exactly what your booked Tuesday will feel like. Use weather for the immediate trip and climate information for longer decisions about infrastructure, travel, and the sport’s future.
+Follow a flake a little farther than the chair line. If it stays in the pack until spring, some of its water will arrive downstream months after the storm. Let the same precipitation fall as rain and it may leave the mountain long before a reservoir operator would have preferred. A winter can receive plenty of water and still come up short of stored snow. NOAA distinguishes snow drought caused by warmth from snow drought caused by a shortage of precipitation. [NOAA, Snow Drought](https://www.drought.gov/what-is-drought/snow-drought)
 
-The [NOAA snow drought resource](https://www.drought.gov/what-is-drought/snow-drought) explains why low snowpack can arise from too little precipitation, unusually warm conditions, or both. This is one reason a precipitation forecast and a snowpack measure are not interchangeable.
-
-**Field note:** Before your next day, write a three-line forecast for yourself: likely surface, likely operational limits, and the condition that would make you change plans. Check what actually happened afterward.
+That brings us back to the fluid-filled pillow in the woods. Tomorrow morning a skier may glance at the station reading, see that it hasn't snowed, and put the phone away. For somebody a long way downhill the interesting part of the measurement is how much of last month's storm is still up there, waiting.

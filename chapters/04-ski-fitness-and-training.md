@@ -1,8 +1,10 @@
-The most useful preseason workout is the one you can repeat. A heroic weekend of lunges followed by six inactive days is a poor foundation for a winter of repeated efforts. Aim to arrive with a little more capacity and a routine you understand.
+Take the stairs in ski boots after lunch and the staircase can feel like an editorial comment on the morning. The hill let you glide downhill. The lodge architect wants every inch of elevation back.
 
-This chapter offers general planning ideas for adults. It is not a rehabilitation program or a test of readiness after injury. If a condition, pregnancy, symptoms, or a long period of inactivity affects exercise choices, work with a qualified clinician or coach on an appropriate starting point.
+A skier gets an odd bargain in the lift line. The machinery does the climbing and then delivers you to a task that asks your legs to bend, hold, yield, and do it all again. Even two descents of the same run can ask quite different things. On the first you choose your turns. On the second a line of children crosses the pitch and you hold the traverse much longer than you planned.
 
-## Build the base before chasing the burn
+There is a small mercy in how preparation works. When the US physical activity guidelines were revised in 2018, the old requirement for aerobic activity to come in bouts of at least ten minutes disappeared. The walk that fits between two appointments counts toward your activity for the day. That gives an ordinary working week quite a few more possibilities than the word *training* suggests. The guidelines describe general health benefits. A return from injury calls for advice specific to you. [US Department of Health and Human Services](https://odphp.health.gov/our-work/nutrition-physical-activity/physical-activity-guidelines/current-guidelines/top-10-things-know)
+
+## What the chairlift leaves to you
 
 As a general health baseline, the [CDC’s adult activity guidance](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html) recommends at least 150 minutes of moderate aerobic activity weekly, or an equivalent amount of vigorous activity, plus muscle strengthening on at least two days. That is population guidance, not a skiing performance prescription. Some activity is better than none, and your starting point matters.
 
@@ -35,14 +37,12 @@ Walking hills, cycling, swimming, or another enjoyable activity can provide repe
 
 Do not turn every session into an imitation of an exhausting ski run. Skiing skill is not reducible to thigh discomfort, and fitness work cannot teach snow judgment. You still need appropriate instruction and easy first days.
 
-## Use a weekly example carefully
+## The walk home counts
 
-An illustrative week might contain strength on Monday and Thursday, an easy walk or ride on Tuesday and Friday, a longer comfortable outing on Saturday, and lighter movement or rest on the other days. It is a calendar example, not a required dose. If you ski on Saturday, adjust the week so you do not arrive carrying avoidable fatigue.
+Imagine two versions of the week before opening day. In one you miss the class on Monday, decide the week is lost, and postpone the whole project until Saturday. In the other you walk home on Monday, find a few minutes on Wednesday, and keep the Saturday appointment. The second week sounds rather meager when you describe it at dinner. It contains quite a bit more movement.
 
-Write down how the session felt and how you recovered. Persistent pain, swelling, dizziness, chest symptoms, or an unusual loss of function deserve appropriate medical assessment; they are not a cue to win an argument with the workout.
+The guidelines' change about short bouts matters here because it releases all those little stretches of time from the category of failure. There is room for an easy walk even in a week that also contains a harder workout. There is room for rest after the harder one. Persistent pain, swelling, dizziness or chest symptoms deserve medical assessment. Arithmetic about minutes cannot tell you what those symptoms mean.
 
 ## Keep training once the lifts open
 
 The season changes the workload. Travel, cold, altitude, and several consecutive ski days can make your normal gym week too much. Maintain helpful habits while adjusting around actual recovery. A short sustainable routine can be more useful than an ambitious plan abandoned in January.
-
-**Field note:** Put your next two realistic activity sessions in the calendar. Specify where, when, and the easy version you will do if time gets tight. Consistency starts with a plan small enough to survive Thursday.

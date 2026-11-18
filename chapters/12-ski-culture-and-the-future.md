@@ -1,6 +1,8 @@
-The future of skiing will be shaped by who can get to the snow, who feels welcome when they arrive, and who can afford to return. Equipment will change. So will business models. The deeper question is whether winter remains a living part of people’s lives.
+In Richmond, Vermont, Mickey and Ginny Cochran started running a rope tow in their backyard in 1961. The enterprise eventually acquired the tax status that its neighbors might have guessed at all along. In 1998 Cochran's became a nonprofit. Read the ski area's account of itself and notice the unit in which it describes its ambitions. A child ought to be able to ski. A family ought to be able to come back. [Cochran's Ski Area, its history and mission](https://cochranskiarea.com/mission/)
 
-You have a role in that future even if you never enter a boardroom or a race. Where you spend, how you travel, what you celebrate, and how you treat a beginner all influence the culture around you.
+It is tempting, in telling the history of a little hill, to hurry past the backyard and look for a famous skier to prove the enterprise was worthwhile. Follow a different child for a moment. Suppose she skis there for years, never wins a race, and comes back as an adult with a pair of very small mittens in her pocket. What would a balance sheet have to count in order to register what the tow had done?
+
+A ski area's future is usually drawn as a map of proposed lifts. There is another way to draw it. Start with the people close enough to go on a school night, then ask how many of them could still afford to live there if the place became a success.
 
 ## Keep the small places in the picture
 
@@ -42,10 +44,9 @@ A vertical total measures vertical. It does not measure the quality of a lesson,
 
 The [Max Vert snow desk](/data/) and [journal](/blog/) are companions to this book: current starting points for conditions and conversation. A planning tool earns its place when it helps you reach a better real day.
 
-## A season you can carry forward
 
-Finish each winter with a short review. What made you want to return? Which spending improved the experience? What did you learn about conditions? Who helped you? What would make next winter easier on your body and your life?
+## The ride back up
 
-Then choose one thing to keep and one thing to change. You do not need to reinvent yourself every autumn. A skiing life can grow through repeated, attentive seasons.
+At Paradise on Mount Rainier, the rope had to come down for summer. At Cochran's the neighbors found a way to keep a tow going across generations. Those two places suggest different answers to the question of what a mountain owes the people who will come after us. Both answers took work. Somebody had to loosen the hardware. Somebody had to turn up the following winter.
 
-**Field note:** Invite somebody into skiing in a way that suits them. The invitation might be a local lesson, a Nordic outing, an adaptive program inquiry, or simply a clear answer to a question they felt awkward asking. Make room for their version of winter.
+If you have a hill you love, you probably know something there that would be hard for a stranger to discover. Where the wind drops on a cold morning. Which bench has room for a parent to help a child wrestle a boot on. Which run brings two friends of quite different abilities to the same chair at about the same time. Give somebody that piece of knowledge. One day they may find themselves on that bench, holding a small foot quite still while its owner tells them an exceedingly long story. The lift will still be there when the story is over.

@@ -1,6 +1,6 @@
-Learning to ski is learning to make choices while moving. You choose where to look, how much speed to carry, where to turn, and when to stop. Equipment and fitness help, but they cannot make those choices for you.
+In vision-impaired alpine racing, listen for the other skier. A guide goes down the course ahead of the racer and communicates the turns. The Australian Paralympic team's Sochi guide describes a microphone and speaker system carrying the guide's calls. A race spectator watching with the sound off misses part of the performance. Somebody has to say the useful thing early enough for another person to do something with it. [Australian Paralympic Team, Sochi media guide](https://www.paralympic.org/sites/default/files/document/140226163335336_APC_Media%2BGuide_Sochi%2B2014%2BWinter%2BParalympic%2BGames_WEB.pdf)
 
-A useful learning plan makes the next task small enough to understand. You do not need to prove that you belong on the hardest run your friends can survive. You need a place where you can practice with attention and control.
+There is a modest lesson there for anyone who has tried to teach a friend by shouting advice from below. By the time the sentence reaches them, the patch of snow the sentence was about may be uphill. An instructor can stop where you can see, describe one thing to try, and let you feel it happen. For a few turns the mountain becomes a place to investigate. That change of mood alone can be worth the price of a lesson.
 
 ## Give the first day to learning
 
@@ -42,10 +42,8 @@ For a nervous skier, start with a predictable plan: one comfortable lift, one fa
 
 Adaptive programs can help match instruction, equipment, and support to an individual. [Move United’s program network](https://moveunitedsport.org/) is one place to begin finding opportunities in the U.S.; confirm skiing availability directly with the provider.
 
-## Keep a learning log
+## What you can hear from the chair
 
-After each day, record one thing that improved, one situation that felt difficult, and one question for the next lesson. Add conditions and fatigue so you can interpret the day fairly. Firm snow after a poor night’s sleep is different evidence from a rested morning on a familiar slope.
+Suppose on the way up you can describe exactly where a run got difficult. The slope rolled away. The skier in front vanished below the lip and for a second you could no longer see where the track went. By the time you saw it again your legs had stiffened. That is a much richer account of a ski run than the color printed beside its name.
 
-At the end of a season, you want a record of increasing options: places you can ski comfortably, conditions you understand better, and decisions you make sooner. That is a more useful definition of progress than the darkest symbol you have descended.
-
-**Field note:** Before your next lesson, finish this sentence: “I want to be more comfortable when…” Bring the specific situation to your instructor.
+Tell an instructor that story and the next lesson can begin at the roll. Repeat it at dinner and somebody who has skied for thirty years may admit they still dislike that particular sensation. A beginner with a precise question can sometimes open a conversation the experts have been circling for years.

@@ -1,6 +1,6 @@
-A useful skiing library has more than opinions about equipment. It includes current weather, official operations information, education, history, and people you can ask for help. This directory explains what each resource is for and where its limits begin.
+A park ranger, a boot historian, and a water surveyor could spend a morning at the same mountain and bring home three entirely different books. One might notice the old powerhouse beside the trail. One might watch a child buckle a shell over a soft liner. One might want to know what was happening to the water under all that white. Those are three of the trails this edition follows. Here are the people and institutions whose work makes it possible to follow them farther.
 
-Links were checked for this edition on November 16, 2026. Linked services can change, and some content or tools may require payment. Listing a resource is not an endorsement of every claim or product on its website. No paid placement is included in this edition.
+For a first detour, try the [Park Service's account of the tow at Paradise](https://www.nps.gov/places/paradise-ski-tow-powerhouse.htm). It is the kind of short entry you might walk past on your way to a much bigger attraction. Read it after a day riding lifts and an unassuming little building has something to say about the mountain you just enjoyed.
 
 ## History and understanding the sport
 
@@ -26,7 +26,7 @@ Links were checked for this edition on November 16, 2026. Linked services can ch
 
 **[Max Vert snow desk](/data/) and [resort forecasts](/data/resorts/):** Starting points for exploring mountain conditions. Follow through to current resort operations and official forecasts before making travel or skiing decisions.
 
-**[Max Vert road desk](/data/roads/), [fares](/data/flights/), and [stays](/data/stays/):** Trip research starting points. Confirm closures and traction requirements with transport authorities and current prices and terms with the provider.
+**[Max Vert fares](/data/flights/), and [stays](/data/stays/):** Trip research starting points. Confirm closures and traction requirements with transport authorities and current prices and terms with the provider.
 
 **The mountain’s official website:** The source to consult for operating terrain, lift status, access rules, reservations, lessons, and closures. Weather aggregators cannot establish that a particular lift will run.
 
@@ -54,6 +54,6 @@ Keep a small set of dependable resources rather than a huge collection of bookma
 
 *The Long Season* is a free web book published by DidThey LLC under the MAX VERT™ name. It focuses on recreational lift-served skiing, primarily from a North American planning perspective, with broader historical and travel context. It is general education, not individualized medical care, professional instruction, or backcountry certification.
 
-This first edition was developed with AI assistance and checked against the linked sources. It contains no claimed firsthand reporting or independent clinical review. Examples marked illustrative are invented to explain decisions. Industry interpretation and recommendations are editorial judgments, not measured findings unless explicitly attributed.
+This revised edition was developed with AI assistance and checked against the linked sources. It contains no claimed firsthand reporting or independent clinical review. Examples marked illustrative are invented to explain decisions. Industry interpretation and recommendations are editorial judgments, not measured findings unless explicitly attributed.
 
 For corrections, use the [book repository’s issue tracker](https://github.com/snoberserker/max-vert-ski-book/issues). Include the chapter, the claim, and a primary source where possible. Corrections should improve a living book, while edition dates make changes visible.

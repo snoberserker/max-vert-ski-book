@@ -1,6 +1,8 @@
-A bargain lift ticket can be the most expensive part of a bad decision. If it sends you to a distant mountain with awkward flights, costly transfers, and no suitable lessons, the discount did very little for your winter.
+Divide the price of a season pass by enough days and the answer approaches pocket change. A spreadsheet will let you ski every Tuesday in February. Your employer may have other ideas.
 
-Plan from the whole trip inward. This chapter’s numbers are illustrative arithmetic, not current prices, offers, financial advice, or endorsements of a particular pass.
+Try the calculation the other way around. Put yourself at the kitchen table on Sunday night after the trip. The gloves are drying over a chair. The receipts are in a heap. Which expense would you happily pay again? If it was the extra night that let the driver sleep before the drive home, you have learned something a ranking of ticket prices could never tell you. If it was the lesson that let two people ski together all afternoon, the value of that hour belongs to both of them.
+
+The prices below are invented so you can change them. The stubborn quantities in this exercise are the people, the nights, and the number of times you can really go.
 
 ## Put every cost in the same place
 
@@ -10,17 +12,13 @@ For example, an invented three-day trip could include $330 of access, $120 of re
 
 Use the same assumptions when comparing alternatives. If one quote includes a lesson and the other does not, they are different products. If friends share a car, agree how costs are divided before booking.
 
-## Compare a pass against realistic tickets
+## The seventh day
 
-Use this basic expression:
+Take an invented $600 pass and seven tickets at $90 apiece. Six single tickets cost $540. The seventh brings the total to $630. On paper you can almost see the seventh day light up. It is the one on which the pass pulls ahead.
 
-**Access cost per day = pass price ÷ days you will actually use it.**
+Now imagine that six of those days are already spoken for. For the seventh you would have to take Friday off and drive up alone. Would you do it at $90? If the answer is yes, the pass has bought a modest saving on a winter you want. If the answer is no, the calculation has quietly recruited you to make a trip. You might love that trip. Just give it its proper name when you look at the costs.
 
-For break-even, compare the pass price with the tickets you would otherwise buy for those particular dates. If those tickets vary in price, add them individually. A peak walk-up rate can make a pass look attractive even when you would have bought cheaper advance tickets.
-
-A hypothetical $600 pass and $90 equivalent tickets cross near seven days. But that calculation only works if the pass covers your mountain and dates. It also ignores whether you would make extra trips simply to justify the pass.
-
-Use a conservative, expected, and optimistic day count in the [season planner](/skiing/season-planner/). If the pass only wins in the optimistic case, you are purchasing some uncertainty along with access.
+A [season worksheet](/skiing/season-planner/) makes it easy to change the numbers. Try taking out the day that depends on someone doing you a favor. In many households that is the most expensive cell in the sheet.
 
 ## Read the conditions before the countdown
 
@@ -49,5 +47,3 @@ This does not mean every trip should be optimized down to the last dollar. It me
 Write down actual spending and what you would repeat. Add the things the spreadsheet missed: transfer stress, wasted rental time, a particularly helpful instructor, the joy of walking to a lift.
 
 That record becomes better buying advice than a general list of best resorts. It is evidence from your own life.
-
-**Field note:** Identify the three largest costs in your next trip. Ask whether each one buys something your group actually values. Start there before hunting for tiny discounts.

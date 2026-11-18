@@ -1,8 +1,8 @@
-The best mountain for you is the one that fits the day you can actually have. Start with the terrain you enjoy, the trip you can manage, and the people you want beside you. Famous names belong later in the decision.
+The street address of a ski day in Colorado can be a railway platform. Amtrak lists the Winter Park Resort stop at 85 Parsenn Road. Its station page is wonderfully matter-of-fact about what you will find there. There is a shelter. There is no baggage storage. For somebody carrying boots, skis, and a bag containing a second pair of shoes, that last detail may matter more than another thousand acres on the trail map. [Amtrak, Winter Park Resort platform](https://www.amtrak.com/stations/wpr)
 
-This is a framework for choosing destinations, rather than a ranking or a promise about conditions. Resort operations, prices, access products, and road rules change. Check the mountain’s own current information before committing money.
+Now draw a map of a ski trip the way a traveler experiences it. Start with the front door. Give some space to the transfer where both hands are full. Draw the walk from the rental counter to the lesson meeting place at its proper scale for a tired six-year-old. The mountain everyone calls *smaller* might occupy more of this map in the nicest possible way. You get there sooner. Your first run begins while your friends still have patience. You find each other again at lunch.
 
-## Begin with the home hill
+## How far is the first turn?
 
 A nearby area buys you repetition. You can practice the same skill across several visits, learn how the snow changes, and leave when your energy runs out. Shorter travel can make a modest weather window usable.
 
@@ -42,10 +42,8 @@ For a group, check sleeping arrangements, food options, lesson availability, ren
 
 A sensible shortlist has three options: the ambitious trip, the easier trip, and the local fallback. You do not need to research every ski area in the world. You need a choice that survives an honest look at time and money.
 
-## Build a mountain scorecard
+## The return journey
 
-Rate terrain fit, travel effort, total cost, instruction, group comfort, and flexibility. Give your highest priorities more weight. If two people care most about lessons and one cares about steep terrain, make that disagreement visible before the deposit.
+Put the two most promising trail maps side by side. Find the place a first-day skier finishes a lesson. Find the run the strongest skier wants to repeat. Trace both journeys to a single table for lunch. Pay particular attention to the trip *back*. It is possible to have a thoroughly happy morning and then discover that the only ski route home crosses a pitch somebody has spent the whole day trying to avoid.
 
-Use the [Max Vert resort desk](/data/resorts/) to begin checking mountain weather, then go to the official resort for current opening, access, and operational details. Use the [road desk](/data/roads/) as a starting point for the approach and verify with the relevant transport authority.
-
-**Field note:** Name one mountain you could ski three times more often than your dream destination. Work out what you would learn by going there.
+The [resort desk](/data/resorts/) can put names and weather to the shortlist. The mountain's own operations team can tell you which connections are running. If one map lets people separate, have an adventure, and come together easily under their own steam, that is an extraordinary piece of terrain design. You can appreciate it even on a day when the summit never opens.

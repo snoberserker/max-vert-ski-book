@@ -1,4 +1,6 @@
-Ski language should make the mountain easier to understand. Use this glossary to decode a conversation, ask a better question in a shop, or explain a plan to a friend. Local usage varies; when a term affects safety or access, ask what it means at that mountain.
+Two inches of what? At breakfast, somebody reading a forecast may mean the snow expected by evening. At a station up the valley, two inches may be the depth on the ground. In a water-supply bulletin those same two inches could mean the water you would get if the whole pack melted. A skier who learns the three nouns attached to that one number can already read a mountain more closely.
+
+Ski language is full of little compressed observations. *Fall line* gives a name to the direction gravity would take a loose ball. *Runout* asks you to keep looking downhill after the interesting part of a slope appears to end. Keep an ear out for the terms people use on the lift. The good ones give you something new to see when you get off.
 
 ## Terrain and the mountain
 

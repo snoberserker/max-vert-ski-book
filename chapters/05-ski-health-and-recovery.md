@@ -1,6 +1,8 @@
-A long skiing life is built from ordinary decisions. You eat before you are running on fumes, notice when the cold changes your hands, and end a day while you can still ski well. None of that makes a dramatic film. It makes another winter possible.
+On a ski trip, the most consequential elevation on the itinerary can be the one printed on the hotel brochure. Two friends can ride the same lift, eat the same lunch, and go down different roads at four o'clock. The one who sleeps high has given their body a different night.
 
-Health advice needs clear boundaries. This chapter is general education. A clinician who knows your history is the right person to guide injury rehabilitation, medication, medical conditions, and return to sport. No checklist can guarantee that a ski day will be injury-free.
+The CDC's travel medicine guide pays particular attention to sleeping elevation and how fast a traveler reaches it. It also makes an inconvenient point for the fittest person in the group. Physical fitness does little to predict susceptibility to altitude illness. A strong runner flying in from sea level has earned no special exemption from the change in air. That puts a rather different light on the choice between a room up high and one down the valley. [CDC Yellow Book, high-altitude travel](https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html)
+
+The useful decisions here happen at unfashionable times. At booking. At breakfast. At the lift where somebody finally admits that the headache is getting worse. This is general education. Discuss individual risks and return from injury with a clinician who knows your history.
 
 ## Make the first hour unremarkable
 
@@ -36,10 +38,8 @@ Wear an appropriate, correctly fitted snowsports helmet and follow its manufactu
 
 The [CDC’s concussion signs and symptoms resource](https://www.cdc.gov/heads-up/signs-symptoms/index.html) distinguishes symptoms from emergency danger signs. Repeated vomiting, seizures, worsening headache, increasing confusion, or difficulty waking after a head impact warrant emergency care. Return to skiing should follow appropriate clinical guidance.
 
-## Protect tomorrow
+## One person goes inside
 
-The evening before another ski day is a recovery opportunity. Eat, drink, dry clothing, inspect equipment, and leave time to sleep. If the group is exhausted, change the next morning’s plan. The money already spent does not tell you what your body can safely do today.
+Picture the moment when one person says they want to go in. The rest of the group is fumbling for passes. It would be easy to say *already?* The word takes half a second and can cost a friend the courage it took to speak up.
 
-At the season’s end, review recurring issues. Was discomfort always in the same boot? Did consecutive travel days leave you drained? Did you repeatedly ski past the point of good control? Solve patterns before shopping for a different pair of skis.
-
-**Field note:** Agree on a plain sentence anyone in your group can use: “I’m done for today.” Make it easy to say and easy to respect.
+A better answer is a practical one. Where are the keys? Does anyone need company or help from patrol? Where will everyone meet? If the person feels well enough to wait, let them choose the table. There is an unsuspected pleasure in getting indoors early, peeling off a damp glove and seeing the people you love arrive through the window one bright jacket at a time.

@@ -1,6 +1,8 @@
-A ski is an astonishingly elegant answer to a very old problem: snow makes walking hard. Before there were lift lines, racing suits, or arguments about waist width, people needed to cross winter landscapes. Sliding was transportation. The sport came later.
+Every spring the mountain had to give the meadow back. At Paradise, high on Mount Rainier, park managers allowed equipment for downhill skiing on one condition. Whatever went up for winter had to come down before summer. Imagine buying a season pass to a place where erasing the ski area was part of the job.
 
-That order matters. Skiing is bigger than the resort holiday, and its history belongs to more people than the familiar European racing story suggests. Understanding that history changes what you notice on a mountain: the old club lodge, the jump beside a Nordic trail, the labor behind a chairlift, the shape of the ski under your foot.
+The Civilian Conservation Corps built a rope tow there in 1937. Installed the next year, it carried skiers up Alta Vista. An engine could now return someone to the top of a slope they had just descended. The little powerhouse survives, and the Park Service tells its story among the historic buildings at Paradise. The rope itself is gone. [National Park Service, Paradise Ski-Tow Powerhouse](https://www.nps.gov/places/paradise-ski-tow-powerhouse.htm)
+
+Stand those two ideas side by side for a moment. Somebody looked at a snowy slope and wanted to ski it over and over. Somebody else looked at the same slope and wanted a summer visitor to have trouble believing a lift had ever stood there. Both got their wish. The history of skiing is full of such arrangements, including a much older one between a person, a length of wood, and the winter ground.
 
 ## Before the chairlift
 
@@ -30,10 +32,9 @@ Alpine skiing, cross-country skiing, telemark, jumping, freestyle, racing, and s
 
 Avoid treating any one branch as the completed version of another. A Nordic skier moving through quiet trees is having a complete ski day. So is a beginner linking first turns on a modest slope. Skiing has never needed a single definition of success.
 
-## Take this onto the hill
 
-On your next visit, ask three questions. Who used this landscape before the resort existed? How did people originally reach the snow? Which piece of infrastructure makes your particular day possible?
+## The second ride
 
-A useful season includes a little historical curiosity. Visit a local museum, read a club history, or ask why a trail has its name. You will start seeing the mountain as a place with memory, rather than a backdrop for your own performance.
+Try picturing the first person at Alta Vista to take a second ride that morning. The first ascent bought a descent. The second bought something stranger. A skier could find the place where a turn had gone wide, approach the same patch of snow, and try it another way. That quiet privilege runs through almost everything we now pay for on a mountain. A coach can stand in one place and see a child come by again. Two friends can trade the lead. A timid skier can come back to the pitch that frightened her and discover, on the fourth pass, that she knows its shape by heart.
 
-**Field note:** Choose one local ski area and sketch its story in five lines: landscape, community, access, equipment, and change. The omissions in your first sketch are your reading list.
+The rope changed the meaning of a small hill. You could spend the whole afternoon there.

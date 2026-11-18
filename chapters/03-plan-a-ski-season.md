@@ -1,8 +1,8 @@
-The season you imagine in September often contains an unreasonable number of perfect Saturdays. The season you can actually ski contains work, school, fatigue, weather, and other people’s calendars. Planning gets interesting when those two versions meet.
+Suppose the day you remember from this winter turns out to be a Wednesday in February. You got there after four. The lamps were already on. You had time for five runs with your sister before one of you had to go collect a child. What would have had to happen in November for those two hours to exist?
 
-Start with three promises: a realistic amount of time, a sustainable amount of money, and one thing you want to learn. A good plan leaves room for a surprise storm. It also survives a month without one.
+Very little of it involves snow. Somebody has to be able to leave work. Two pairs of boots have to end up in the same car. Your sister has to know you meant the invitation. The point of a calendar is that it can hold a small piece of winter open until two people get there. A plan that begins with a distant mountain and works backward can spend a remarkable amount of money before it makes that simple thing possible.
 
-## Define what a good winter means
+## The winter you would miss
 
 Choose a participation goal, a skill goal, and an experience goal. For example: eight local days, a lesson on comfortable linked turns, and one relaxed trip with friends. Keep the skill goal observable. “Become advanced” is too vague to guide a lesson. “Finish turns with controlled speed on familiar blue terrain” gives an instructor something useful to work with.
 
@@ -24,15 +24,11 @@ For an illustrative comparison, a $750 pass used ten times costs $75 per day for
 
 The complete comparison asks a second question: how much does it cost to reach those days? Cheap access far from home can be expensive skiing.
 
-## Give the season a rhythm
+## A Wednesday under lights
 
-**Before snow:** Check equipment, arrange instruction, build consistent activity, and settle access details. Try clothing together before the first cold car park.
+An evening hill imposes a pleasant discipline on ambition. There is no point poring over three bowls and a ridge if the lights serve two runs. On the first lap you remember the bend. On the next you find out whether the snow still holds at its outside edge. By the fourth you can spare enough attention to watch the skier ahead of you take a quite different line. Repetition has bought you the leisure to be curious.
 
-**First outings:** Relearn routines on easy terrain. Find the rental desk, lesson meeting point, bathrooms, warm space, and patrol information. Finish with enough energy to want another day.
-
-**Midwinter:** Alternate purposeful practice with social skiing. A lesson is easier to use when the next practice day is already scheduled.
-
-**Spring:** Follow actual operations and daily conditions. Longer daylight does not mean every slope is pleasant all day. Store equipment carefully when your season ends and write down what you learned while you still remember it.
+Put two evenings close together on the calendar and the second can begin where the first one ended. Space them six weeks apart and a surprising amount of the next visit may go toward remembering which entrance to use. Frequency has a value that is difficult to express in vertical feet.
 
 ## Plan for people
 
@@ -40,10 +36,9 @@ A mixed-ability group needs more than a meeting time. Agree on a first run, regr
 
 For families, the limiting factor may be lesson logistics or a child’s comfort rather than adult ambition. Confirm ages, pickup rules, equipment needs, and meal arrangements directly with the school. For adaptive needs, contact the program before booking transport and lodging; available equipment and instructor capacity are specific to each program.
 
-## Leave space to change your mind
 
-A season plan is a way to make decisions easier. It is not a contract requiring you to ski through illness, road closures, or financial stress. Review after the first few days: are you recovering well, enjoying the group, and using your access?
+## A blank square
 
-Use the [season planner](/skiing/season-planner/) to record the decisions. Then stop optimizing for a while and go skiing.
+Leave one day unlabeled. The first time you ski together will tell you what to do with it. Perhaps the lesson ends just as a new turn starts to make sense. Perhaps your sister discovers she would gladly ski the same little evening hill every other week. A blank square lets somebody say that out loud without having to unwind a deposit.
 
-**Field note:** Write this sentence: “This winter will feel successful if…” Finish it without mentioning somebody else’s trip, equipment, or vertical total.
+The [season planner](/skiing/season-planner/) is there for the dates and the arithmetic. Put the names of the people in it, too. They are surprisingly hard to reconstruct from a lift-ticket receipt.

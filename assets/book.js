@@ -1,7 +1,31 @@
-const bookContents=document.querySelector('.sidebar details');
-if(bookContents&&window.matchMedia('(max-width:900px)').matches)bookContents.open=false;
-const chapterSearch=document.querySelector('[data-chapter-search]');
-if(chapterSearch)chapterSearch.addEventListener('input',()=>{const term=chapterSearch.value.trim().toLocaleLowerCase();const items=[...document.querySelectorAll('[data-chapter]')];for(const item of items)item.hidden=!item.textContent.toLocaleLowerCase().includes(term);for(const label of document.querySelectorAll('[data-part]'))label.hidden=!items.some(item=>item.dataset.partName===label.dataset.part&&!item.hidden);const count=items.filter(item=>!item.hidden).length;document.querySelector('[data-search-count]').textContent=`${count} chapter${count===1?'':'s'} found`;});
+for (const control of document.querySelectorAll('[data-enhance]')) control.hidden = false;
+
+const chapterSearch = document.querySelector('[data-chapter-search]');
+if (chapterSearch) {
+  const groups = [...document.querySelectorAll('[data-chapter-group]')];
+  const count = document.querySelector('[data-search-count]');
+  const fold = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
+  const filterChapters = () => {
+    const term = fold(chapterSearch.value.trim());
+    let visible = 0;
+    for (const group of groups) {
+      const heading = group.querySelector('h3').textContent;
+      const items = [...group.querySelectorAll('[data-chapter]')];
+      for (const item of items) {
+        item.hidden = !fold(heading + ' ' + item.textContent + ' ' + item.dataset.chapter).includes(term);
+        if (!item.hidden) visible++;
+      }
+      group.hidden = items.every(item => item.hidden);
+    }
+    count.textContent = visible ? `${visible} chapter${visible === 1 ? '' : 's'}${term ? ' found' : ''}` : 'No matching chapters.';
+  };
+
+  chapterSearch.addEventListener('input', filterChapters);
+  window.addEventListener('pageshow', filterChapters);
+  filterChapters();
+}
+
 const glossary=document.querySelector('[data-glossary-search]');
 if(glossary){const prose=document.querySelector('.prose');const entries=[...prose.querySelectorAll('p')].filter(p=>p.firstElementChild?.tagName==='STRONG');glossary.addEventListener('input',()=>{const term=glossary.value.trim().toLocaleLowerCase();for(const entry of entries)entry.hidden=!entry.textContent.toLocaleLowerCase().includes(term);for(const heading of prose.querySelectorAll('h2')){if(heading.textContent==='Keep learning the language')continue;let next=heading.nextElementSibling,visible=false;while(next&&next.tagName!=='H2'){if(!next.hidden)visible=true;next=next.nextElementSibling;}heading.hidden=!visible;}document.querySelector('[data-glossary-count]').textContent=`${entries.filter(p=>!p.hidden).length} terms found`;});}
 for(const button of document.querySelectorAll('[data-print]'))button.addEventListener('click',()=>window.print());

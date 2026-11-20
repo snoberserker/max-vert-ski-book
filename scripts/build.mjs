@@ -71,7 +71,7 @@ write(book.base, page({
         <h1>The Long <em>Season</em></h1>
       </div>
       <div class="cover-copy">
-        <p class="lede">A rope tow comes down for summer. A pillow in the woods weighs the snow. Follow a ski day far enough and it leads to some unlikely places.</p>
+        <p class="lede">From the first rope tows to reading a snow forecast, The Long Season explores how skiing got here and how to make more of your own winter.</p>
         <div class="actions"><a class="button" href="${href(chapters[0])}">Start reading</a>
           <a class="cover-contents" href="#contents">All chapters</a></div>
         <a data-resume hidden href="/skiing/">Continue reading</a>

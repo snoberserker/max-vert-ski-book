@@ -244,7 +244,8 @@ footer a:hover { color: #ffce74; }
   .feature-grid { gap: .5rem; }
   .feature-link small { font-size: .75rem; line-height: 1.28; margin-bottom: .2rem; }
   .feature-link strong { font-size: 1.24rem; }
-  .section-head { display: grid; gap: .85rem; }
+  .section-head { display: block; }
+  .section-head .search-label { margin-top: .85rem; }
   .utility, .form-grid { grid-template-columns: 1fr; }
   .utility a { padding: .65rem 0; }
   .utility a + a { border-left: 0; border-top: 1px solid #9e824b; }
